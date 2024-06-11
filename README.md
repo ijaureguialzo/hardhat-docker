@@ -1,13 +1,3 @@
 # hardhat-docker
 
-```
- ______________________________________ 
-/ Remember the good old days, when CPU \
-\ was singular?                        /
- -------------------------------------- 
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
+Blockchain de pruebas [Hardhat](https://hardhat.org/hardhat-network/docs/overview) en un contenedor Docker.
